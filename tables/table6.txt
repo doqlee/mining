@@ -1,0 +1,11 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)
+	Total	\shortstack{Workers\\ $<6$ months \\ at mine}	\shortstack{Workers\\ $\ge{6}$ months \\ at mine}	\shortstack{Mine \\ Tenure\\ missing}	\shortstack{Workers\\ $<3$ years in \\ industry}	\shortstack{Workers\\ $\ge{3}$ years in \\ industry}	\shortstack{Industry \\ Experience \\ missing}	\shortstack{Involves\\Contractor}	\shortstack{Does not\\Involve\\Contractor}
+
+$ \Delta \ln(\textit{Price}_{jt-1})$	0.137***	0.146***	0.046*	0.046***	0.135***	0.056**	0.049***	0.090***	0.092***
+	(0.027)	(0.025)	(0.024)	(0.014)	(0.025)	(0.022)	(0.018)	(0.020)	(0.026)
+
+Observations	37,325	37,325	37,325	37,325	37,325	37,325	37,325	37,325	37,325
+$ R^{2}$	0.014	0.012	0.009	0.004	0.016	0.004	0.005	0.008	0.010
+Specification	OLS	OLS	OLS	OLS	OLS	OLS	OLS	OLS	OLS
+Commodities	16	16	16	16	16	16	16	16	16
+Mean of Dep Var	0.592	0.150	0.486	0.088	0.220	0.395	0.143	0.123	0.529

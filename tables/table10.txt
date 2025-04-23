@@ -1,0 +1,27 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)
+	ln_total_accidents_min_nn_dif	ln_total_accidents_min_nn_dif	ln_total_accidents_min_nn_dif	ln_total_accidents_min_nn_dif	ln_total_accidents_min_nn_dif	ln_total_accidents_min_nn_dif	ln_total_accidents_min_nn_dif
+
+$ \Delta \ln(\textit{Price}_{jt-1})$	0.137***	0.118***	0.119***	0.116***	0.117***	0.150***	0.075*
+	(0.025)	(0.032)	(0.031)	(0.031)	(0.032)	(0.025)	(0.042)
+
+$ \Delta \textit{Average log(price), corporate siblings}_{jt-1}$			-0.021***				
+			(0.004)				
+
+$ \Delta \textit{Average log(price), corporate siblings in other counties}_{jt-1				-0.023***			
+				(0.005)			
+
+$ \Delta \textit{log(price) of random commodity not produced by firm}_{jt-1}$					-0.001	0.000	
+					(0.001)	(0.001)	
+
+In multi-unit firm=1 # $ \Delta \ln(\textit{Price}_{jt-1})$							0.089*
+							(0.047)
+
+Sum of Lags							
+Std. Err.							
+Observations	37,191	8,700	8,700	8,700	8,700	34,719	37,191
+$ R^{2}$	0.014	0.024	0.027	0.027	0.024	0.014	0.014
+Specification	OLS	OLS	OLS	OLS	OLS	OLS	OLS
+Commodities	16	14	14	14	14	16	16
+Mines	1749	336	336	336	336	1536	1749
+Firms	1206	79	79	79	79	1045	1206
+Mean of Dep Var	0.594	0.816	0.816	0.816	0.816	0.625	0.594

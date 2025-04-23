@@ -1,0 +1,13 @@
+	(1)	(2)	(3)	(4)
+	Injury Count	Injury Rate	Traumatic Injuries	Serious Injuries
+
+$ \Delta \ln(\textit{Price}_{jt-1})$	0.137***	0.153***	0.103***	0.046**
+	(0.027)	(0.047)	(0.021)	(0.022)
+
+Sum of Lags				
+Std. Err.				
+Observations	37,325	37,325	37,325	37,325
+$ R^{2}$	0.014	0.005	0.009	0.006
+Specification	OLS	OLS	OLS	OLS
+Commodities	16	16	16	16
+Mean of Dep Var	0.592	-0.129	0.355	0.297

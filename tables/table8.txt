@@ -1,0 +1,11 @@
+	(1)	(2)
+	ln_total_viol_dif_101_345	ln_high_neg_viol_dif_101_345
+
+$ \Delta \ln(\textit{Price}_{jt-1})$	0.131***	0.051**
+	(0.044)	(0.020)
+
+Observations	29,359	29,359
+$ R^{2}$	0.011	0.014
+Specification	OLS	OLS
+Commodities	16	16
+Mean of Dep Var	0.001	0.006

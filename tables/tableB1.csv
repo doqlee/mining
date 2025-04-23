@@ -1,0 +1,10 @@
+variables,count,mean,sd,p50,min,max
+"accidents_mine_exper1",37325,1.52437,3.9371,0,0,59
+"accidents_mine_exper2",37325,.310998,1.14878,0,0,33
+"accidents_mine_exper3",37325,.168654,.728629,0,0,23
+"incident_cntctr_tc",37325,.259022,.96709,0,0,9
+"incident_excntctr_tc",37325,1.61522,3.52988,0,0,21
+"exertion_injury",37325,.48793,1.53168,0,0,33
+"struck_injury",37325,.773932,2.0354,0,0,37
+"machinery_injury",37325,.273463,.8793,0,0,17
+"fall_injury",37325,.281259,.821578,0,0,15

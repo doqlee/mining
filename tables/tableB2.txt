@@ -1,0 +1,11 @@
+	(1)	(2)	(3)	(4)
+	$ \shortstack{Injuries \\ Over \\ Exertion}$	$ \shortstack{Injuries \\ Struck\\ By}$	$ \shortstack{Injuries \\ Due To \\ Machinery}$	$ \shortstack{Injuries \\ Due to \\ Fall}$
+
+$ \Delta \ln(\textit{Price}_{jt-1})$	0.037*	0.087***	0.051***	0.038**
+	(0.020)	(0.022)	(0.017)	(0.016)
+
+Observations	37,325	37,325	37,325	37,325
+$ R^{2}$	0.006	0.007	0.004	0.004
+Specification	OLS	OLS	OLS	OLS
+Commodities	16	16	16	16
+Mean of Dep Var	0.218	0.322	0.144	0.152
